@@ -1,0 +1,72 @@
+{
+    "ar": {
+      "voices": [
+        { "id": "زينة", "voiceName": "Zeina", "gender": "أنثى", "age": "بالغ", "accent": "", "file": "Zeina-Arabic-adult-female.mp3"}
+      ]
+    },
+    "de": {
+      "voices": [
+        { "id": "Hans", "voiceName": "Hans", "gender": "Männlich", "age": "Erwachsener", "accent": "", "file": "Hans-German-adult-male.mp3"},
+        { "id": "Marlene", "voiceName": "Marlene", "gender": "Weiblich", "age": "Erwachsener", "accent": "", "file": "Marlene-German-adult-female.mp3"},
+        { "id": "Vicki", "voiceName": "Vicki", "gender": "Weiblich", "age": "Erwachsener", "accent": "", "file": "Vicki-German-adult-female.mp3"}
+      ]
+    },
+    "en": {
+      "voices": [
+        { "id": "Ivy", "voiceName": "Ivy", "gender": "Female", "age": "Child", "accent": "US", "file": "Ivy-English-child-female-standard.mp3" },
+        { "id": "Joanna", "voiceName": "Joanna", "gender": "Female", "age": "Adult", "accent": "US", "file": "Joanna-English-adult-female-standard.mp3" },
+        { "id": "Justin", "voiceName": "Justin", "gender": "Male", "age": "Child", "accent": "US", "file": "Justin-English-child-male-standard.mp3" },
+        { "id": "Matthew", "voiceName": "Matthew", "gender": "Male", "age": "Adult", "accent": "US", "file": "Matthew-English-adult-male-standard.mp3" }
+      ]
+    },
+    "es": {
+      "voices": [
+        { "id": "Lupe", "voiceName": "Lupe", "gender": "Femenino", "age": "Adulto", "accent": "US", "file": "Lupe-Spanish-adult-female.mp3" },
+        { "id": "Mia", "voiceName": "Mia", "gender": "Femenino", "age": "Adulto", "accent": "Mexican", "file": "Mia-Spanish-adult-female.mp3" },
+        { "id": "Miguel", "voiceName": "Miguel", "gender": "Masculino", "age": "Adulto", "accent": "US", "file": "Miguel-Spanish-adult-male.mp3" }
+      ]
+    },
+    "fr": {
+      "voices": [
+        { "id": "Céline", "voiceName": "Céline", "gender": "Féminin", "age": "Adulte", "accent": "France", "file": "Celine-French-adult-female.mp3" },
+        { "id": "Chantal", "voiceName": "Chantal", "gender": "Féminin", "age": "Adulte", "accent": "Canada", "file": "Chantal-French-adult-female.mp3" },
+        { "id": "Léa", "voiceName": "Léa", "gender": "Féminin", "age": "Adulte", "accent": "France", "file": "Lea-French-adult-female.mp3" },
+        { "id": "Mathieu", "voiceName": "Mathieu", "gender": "Masculin", "age": "Adulte", "accent": "France", "file": "Mathieu-French-adult-male.mp3" }
+      ]
+    },
+    "it": {
+      "voices": [
+        { "id": "Bianca", "voiceName": "Bianca", "gender": "Femminile", "age": "Adulto", "accent": "", "file": "Bianca-Italian-adult-female.mp3" },
+        { "id": "Carla", "voiceName": "Carla", "gender": "Femminile", "age": "Adulto", "accent": "", "file": "Carla-Italian-adult-female.mp3" },
+        { "id": "Giorgio", "voiceName": "Giorgio", "gender": "Maschile", "age": "Adulto", "accent": "", "file": "Giorgio-Italian-adult-male.mp3" }
+      ]
+    },
+    "ja": {
+      "voices": [
+        { "id": "みずき", "voiceName": "Mizuki", "gender": "女性", "age": "大人", "accent": "", "file": "Mizuki-Japanese-adult-female.mp3" },
+        { "id": "たくみ", "voiceName": "Takumi", "gender": "男性", "age": "大人", "accent": "", "file": "Takumi-Japanese-adult-male.mp3" }
+      ]
+    },
+    "ko": {
+      "voices": [
+        { "id": "서연", "voiceName": "Seoyeon", "gender": "여성", "age": "성인", "accent": "", "file": "Seoyeon-Korean-adult-female.mp3" }
+      ]
+    },
+    "pt": {
+      "voices": [
+        { "id": "Cristiano", "voiceName": "Cristiano", "gender": "Masculino", "age": "Adulto", "accent": "Portugal", "file": "Cristiano-Portuguese-adult-male.mp3" },
+        { "id": "Inês", "voiceName": "Inês", "gender": "Feminino", "age": "Adulto", "accent": "Portugal", "file": "Ines-Portuguese-adult-female.mp3" }
+      ]
+    },
+    "ru": {
+      "voices": [
+        { "id": "Максим", "voiceName": "Maxim", "gender": "Мужской", "age": "Взрослый", "accent": "", "file": "Maxim-Russian-adult-male.mp3" },
+        { "id": "Татьяна", "voiceName": "Tatyana", "gender": "Женский", "age": "Взрослый", "accent": "", "file": "Tatyana-Russian-adult-female.mp3" }
+      ]
+    },
+    "zh": {
+      "voices": [
+        { "id": "智宇", "voiceName": "Zhiyu", "gender": "女性", "age": "成人", "accent": "", "file": "Zhiyu-Chinese-adult-female.mp3" }
+      ]
+    }
+}

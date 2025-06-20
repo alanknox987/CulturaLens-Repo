@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+:root {
+  --font-size-small: 0.875rem;
+  --font-size-medium: 1rem;
+  --font-size-large: 1.125rem;
+  --primary-color: #1484CC;
+  --secondary-color: #5DBABF;
+}
+
+body {
+  @apply bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Font size classes */
+.font-size-small {
+  font-size: var(--font-size-small);
+}
+
+.font-size-medium {
+  font-size: var(--font-size-medium);
+}
+
+.font-size-large {
+  font-size: var(--font-size-large);
+}
+
+/* Add appropriate spacing for chat items */
+.prose p {
+  @apply my-2;
+}
+
+/* Make images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Adjust button styles for better visibility in dark mode */
+button {
+  @apply transition-colors duration-200;
+}
+
+.aspect-w-16 {
+  aspect-ratio: 16 / 9;
+}
+
+/* Line clamping for text */
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Dark mode styling for form elements */
+.dark input,
+.dark select,
+.dark textarea {
+  @apply bg-gray-700 border-gray-600 text-white;
+}
+
+.dark input:focus,
+.dark select:focus,
+.dark textarea:focus {
+  @apply border-blue-500 ring-blue-500;
+}
+
+/* Additional styling for select dropdowns in dark mode */
+.dark select option {
+  @apply bg-gray-700 text-white;
+}
