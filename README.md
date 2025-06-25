@@ -51,10 +51,10 @@ CulturaLens uses advanced AI technology to analyze cultural artifacts from image
 
 ### Backend (AWS Serverless)
 - **AWS Lambda Functions**: AI processing and audio generation
-    1. *** Create descriptions of uploaded images using AI
-    2. *** Create stories of the uploaded images in parallel based on 3 different cultural preferences using AI
-    3. *** Create audio files of stories using Amazon Polly
-    4. *** Update user preferences to DynamoDB
+    1. Create descriptions of uploaded images using AI
+    2. Create stories of the uploaded images in parallel based on 3 different cultural preferences using AI
+    3. Create audio files of stories using Amazon Polly
+    4. Update user preferences to DynamoDB
 - **Amazon S3**: Secure file storage with intelligent path organization
 - **AWS Systems Manager**: Centralized configuration management
 - **Amazon Bedrock**: Advanced AI model for image analysis and story generation
